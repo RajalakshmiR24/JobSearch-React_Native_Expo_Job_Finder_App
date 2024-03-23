@@ -34,13 +34,10 @@ This is a React Native Expo app designed to help users find jobs quickly and eff
 3. Install dependencies:
     ```bash
     npm install
-
 4. Start the Expo server:
 
     ```bash
     npm start
-
-
 5. Scan the QR code with the Expo Go app on your mobile device, or run in an emulator.
 
 ## Contact
