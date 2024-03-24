@@ -1,4 +1,4 @@
-![expologo](https://github.com/RajalakshmiR24/JobSearch-React_Native_Expo_Job_Finder_App/assets/127002476/3450fa83-38c7-4a3e-a15a-9beed36ed4eb)
+![JSearch](https://github.com/RajalakshmiR24/JobSearch-React_Native_Expo_Job_Finder_App/assets/127002476/8e55a3f5-f7da-4b27-8271-3a11557757a0)
 
 # JobSearch-React Native Expo Job Finder App
 
