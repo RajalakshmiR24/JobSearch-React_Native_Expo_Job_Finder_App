@@ -21,7 +21,7 @@ const Welcome = ({ searchTerm, setSearchTerm, handleClick }) => {
   return (
     <View>
       <View style={styles.container}>
-        <Text style={styles.userName}>Hello Adrian</Text>
+        <Text style={styles.userName}>Hello Raja Lakshmi</Text>
         <Text style={styles.welcomeMessage}>Find your perfect job</Text>
       </View>
 
@@ -61,6 +61,7 @@ const Welcome = ({ searchTerm, setSearchTerm, handleClick }) => {
           keyExtractor={(item) => item}
           contentContainerStyle={{ columnGap: SIZES.small }}
           horizontal
+          ListHeaderComponent={() => <View />}
         />
       </View>
     </View>
