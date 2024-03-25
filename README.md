@@ -1,4 +1,4 @@
-# JobSearch-React Native Expo Job Finder App
+# JobSearch App using React Native expo
 
 This is a React Native Expo app designed to help users find jobs quickly and efficiently. It leverages the Rapid API service JSearch for fetching job listings.
 
