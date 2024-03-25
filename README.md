@@ -1,8 +1,8 @@
-![JSearch](https://github.com/RajalakshmiR24/JobSearch-React_Native_Expo_Job_Finder_App/assets/127002476/8e55a3f5-f7da-4b27-8271-3a11557757a0)
-
 # JobSearch-React Native Expo Job Finder App
 
 This is a React Native Expo app designed to help users find jobs quickly and efficiently. It leverages the Rapid API service JSearch for fetching job listings.
+
+![JSearch](https://github.com/RajalakshmiR24/JobSearch-React_Native_Expo_Job_Finder_App/assets/127002476/8e55a3f5-f7da-4b27-8271-3a11557757a0)
 
 ## Features
 
