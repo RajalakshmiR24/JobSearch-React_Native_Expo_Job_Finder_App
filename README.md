@@ -6,8 +6,7 @@ This is a React Native Expo app designed to help users find jobs quickly and eff
 
 ## Features
 
-- **Job Search**: Easily search for jobs based on keywords, location, or other relevant filters.
-- **Filtering Options**: Refine search results using various filters like job type, location, salary range, etc.
+- **Job Search**: Easily search for jobs based on keywords.
 - **Save Favorites**: Users can save favorite job listings for future reference.
 - **Simple Interface**: Clean and intuitive user interface for easy navigation.
 - **Cross-Platform**: Built with React Native Expo, making it compatible with both iOS and Android platforms.
